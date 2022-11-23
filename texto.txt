@@ -1,3 +1,5 @@
 oi eu sou a Josi!
 
 Esse texto fará parte de um repositório e esta é a minha primeira modificação.
+
+eu estou na ramificação main.
